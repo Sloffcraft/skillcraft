@@ -1,6 +1,3 @@
-// Author: Rohit Mehta
-import './styles.css';
-
 const hamburgerMenu = document.getElementById("hamburger-menu");
 const hamburgerContent = document.getElementById("hamburger-content");
 const hamburgerClose = document.getElementById("hamburger-close");
